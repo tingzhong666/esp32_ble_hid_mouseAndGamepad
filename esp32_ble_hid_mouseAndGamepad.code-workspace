@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"nvs_flash.h": "c",
+			"format": "c",
+			"charconv": "c",
+			"chrono": "c",
+			"optional": "c",
+			"ratio": "c",
+			"system_error": "c",
+			"array": "c",
+			"functional": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"utility": "c",
+			"bitset": "c",
+			"string_view": "c",
+			"regex": "c",
+			"stdio.h": "c",
+			"esp_compiler.h": "c",
+			"cstdint": "c",
+			"freertos.h": "c",
+			"gpio.h": "c",
+			"esp_gatts_api.h": "c",
+			"u_uart.h": "c",
+			"bsp_key.h": "c",
+			"esp_gatt_common_api.h": "c",
+			"esp_gap_ble_api.h": "c",
+			"hidreport.h": "c",
+			"dac_oneshot.h": "c",
+			"esp_check.h": "c",
+			"dac_types.h": "c",
+			"adc_cali.h": "c",
+			"task.h": "c",
+			"adc_cali_scheme.h": "c",
+			"adc_oneshot.h": "c"
+		}
+	}
+}
